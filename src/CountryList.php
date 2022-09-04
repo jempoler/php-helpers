@@ -1,20 +1,20 @@
 <?php
 /*
   +------------------------------------------------------------------------+
-  | ManaCode PHP Helpers                                                   |
+  | Jempoler PHP Helpers                                                   |
   +------------------------------------------------------------------------+
-  | Copyright (c) 2012-2016 manacode (https://github.com/manacode)         |
+  | Copyright (c) 2012-2016 Jempoler (https://github.com/jempoler)         |
   +------------------------------------------------------------------------+
   | This source file is subject to the New BSD License that is bundled     |
   | with this package in the file LICENSE.                        |
   |                                                                        |
   +------------------------------------------------------------------------+
-  | Authors: Leonardus Agung <mannacode@gmail.com>                      |
+  | Authors: Jempoler <jempoler.com@gmail.com>                      |
   |                                                                        |
   +------------------------------------------------------------------------+
 */
 
-namespace Manacode\Helpers;
+namespace Jempoler\Helpers;
 class CountryList
 {
 	var $countryList = array(
