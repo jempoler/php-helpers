@@ -14,4 +14,13 @@
     "require": {
     	"php": ">=7.4"
    	}
+    "suggest": {
+        "jempoler/emprit": "Emprit Application Framework"
+    },
+    "autoload": {
+        "psr-4": { "Jempoler\\Helpers\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Jempoler\\Helpers\\Test\\": "tests/" }
+    }
 }
