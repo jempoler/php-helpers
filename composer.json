@@ -13,7 +13,7 @@
     ],
     "require": {
     	"php": ">=7.4"
-   	}
+   	},
     "suggest": {
         "jempoler/emprit": "Emprit Application Framework"
     },
